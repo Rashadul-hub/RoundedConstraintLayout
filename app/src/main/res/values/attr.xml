@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RoundedConstraintLayout">
+
+        <attr name="corner_radius" format="dimension"/>
+        <attr name="corner_stroke_width" format="dimension"/>
+        <attr name="corner_stroke_color" format="color"/>
+
+    </declare-styleable>
+
+
+</resources>
